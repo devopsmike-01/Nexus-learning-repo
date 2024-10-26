@@ -1,6 +1,8 @@
 # Nexus-learning-repo
 
-Nexus Repository
+![This repo is maintained by *DevOps with Mike* ](https://www.youtube.com/@DevOpsWithMike0/videos)
+
+**Nexus Repository**
 Apache Maven integrates with Nexus Repository Manager to host and manage artifacts, allowing teams to share and access project dependencies efficiently. Using Maven’s distribution Management configuration, artifacts (e.g., JAR/WAR files) can be deployed to a Nexus repository and made accessible to other projects or team members. This setup is particularly useful for managing versioned builds and for facilitating dependency sharing in CI/CD workflows.
 
 ## Configuring Nexus Deployment
