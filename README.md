@@ -81,7 +81,7 @@ This command will upload the built artifacts to the Nexus repository specified i
     - Follow the installation steps in this repo: https://github.com/devopsmike-01/nexus-learning-repo/blob/main/Installations/maven-install.md
     - Launch Instance
 
-3) Nexus
+3) **Nexus**
     - Create an Amazon Linux 2 VM instance and call it "Nexus-server"
     - Instance type: t2.medium
     - Security Group (Open): 8081 and 22 to 0.0.0.0/0
