@@ -1,7 +1,8 @@
 # Nexus-learning-repo
 
-This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
-For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
+This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/
+
+For Cloud and DevOps interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
 
 **Nexus Repository**
 
