@@ -1,10 +1,8 @@
 # Nexus-learning-repo
+- This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
+- For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
+- Visit my website for more inquiries and support [DevOpswithMike](https://devopswithmike.tech/).
 
-This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
-
-For Cloud and DevOps interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
-
-**Nexus Repository**
 
 Apache Maven integrates with Nexus Repository Manager to host and manage artifacts, allowing teams to share and access project dependencies efficiently. Using Maven’s distribution Management configuration, artifacts (e.g., JAR/WAR files) can be deployed to a Nexus repository and made accessible to other projects or team members. This setup is particularly useful for managing versioned builds and for facilitating dependency sharing in CI/CD workflows.
 
